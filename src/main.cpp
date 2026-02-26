@@ -28,13 +28,6 @@
 #define LED_BLINK_DURATION_MS 5000
 #define LED_BLINK_PERIOD_MS   200
 
-//#define BOT_TOKEN "8438508129:AAEaH39kNp5BDXTvC4kqovybLFZxN0M1IlA"
-//#define CHAT_ID   "349691021"
-//  std::string token = "8438508129:AAEaH39kNp5BDXTvC4kqovybLFZxN0M1IlA";
-//  std::string chat_id = "349691021";
-//  #define BOT_TOKEN  "YOUR_BOT_TOKEN"
-//  #define CHAT_ID    "YOUR_CHAT_ID"
-
 // ===================== RTOS ОБЪЕКТЫ =====================
 
 // Бинарный семафор для сигнала от ISR
